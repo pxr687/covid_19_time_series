@@ -8,4 +8,4 @@ The actual plots are in:
 
 If the notebook fails to render on Github, it can be viewed here: https://nbviewer.org/github/pxr687/covid_19_time_series/blob/master/COVID_data_time_series_plots.ipynb
 
-Or here: https://deepnote.com/@pxr687/Covid-Data-Time-Series-Plots-z7PccIGNQOGsfGum1EhqAw
+Or here: https://deepnote.com/@pxr687/Covid-19-Time-Series-Plots-GGn-cB1NSeyaasAkcWKlBw
